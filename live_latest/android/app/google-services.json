@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413163987833",
+    "firebase_url": "https://lakshayfabrics-surat.firebaseio.com",
+    "project_id": "lakshayfabrics-surat",
+    "storage_bucket": "lakshayfabrics-surat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413163987833:android:6612a9ba5e49a9389105a8",
+        "android_client_info": {
+          "package_name": "com.lakshayfabrics.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413163987833-reih60cprl2brnmcftp6p9s953eilbis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp7Owq3X8H8IDXOvn4HqS72eXltmBZmWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413163987833-reih60cprl2brnmcftp6p9s953eilbis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
